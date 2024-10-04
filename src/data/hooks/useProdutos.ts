@@ -1,5 +1,5 @@
 'use client'
-import { Produto } from "@/core";
+import { Produto } from "@gstore/core";
 import { useCallback, useEffect, useState } from "react";
 
 const urlBase = 'http://localhost:4000'

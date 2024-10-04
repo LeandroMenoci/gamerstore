@@ -1,5 +1,5 @@
 import ProdutoItem from "@/components/produto/ProdutoItem";
-import { produtos } from "@/core";
+import { produtos } from "@gstore/core";
 
 
 export default function Inicio() {
